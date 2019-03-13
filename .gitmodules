@@ -1,3 +1,6 @@
 [submodule "blimpy_yuhong"]
 	path = blimpy_yuhong
 	url = ./blimpy_yuhong/
+[submodule "NenuFAR"]
+	path = NenuFAR
+	url = ./NenuFAR/
