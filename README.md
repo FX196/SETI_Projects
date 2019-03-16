@@ -1,5 +1,5 @@
 # SETI Projects
-My work at the Berkeley SETI Research Center
+My work at the [Berkeley SETI Research Center](https://seti.berkeley.edu/)
 
 Currently I'm exploring the possibility of incorporating a Breakthrough Listen reciever into 
 the NenuFAR instrument in Nançay, France.
