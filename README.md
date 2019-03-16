@@ -1,4 +1,4 @@
-# SETI_Projects
+# SETI Projects
 My work at the Berkeley SETI Research Center
 
 Currently I'm exploring the possibility of incorporating a Breakthrough Listen reciever into 
