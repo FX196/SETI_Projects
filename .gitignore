@@ -1,3 +1,6 @@
+.gitignore
+.DS_Store
+.ipynb
 .idea/
 data/
 .ipynb_checkpoints/
